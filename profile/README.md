@@ -16,7 +16,9 @@ In a world full of noise, **Magic Messenger** stands out by offering you:
 
 ---
 
-![Magic Messenger Logo](logo.png)
+<p align="center">
+  <img src="logo.png" alt="Magic Messenger Logo" width="300px">
+</p>
 
 ---
 
