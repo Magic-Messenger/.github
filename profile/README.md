@@ -43,7 +43,7 @@ In a world full of noise, **Magic Messenger** stands out by offering you:
 
 Follow us on social media and become part of the **Magic Messenger** family:
 
-- **Snapchat:** [@MagicMessenger]([#](https://www.snapchat.com/add/magicmessenger?sender_web_id=b823d2d0-f67f-41c4-8d14-a90228e0f960&device_type=desktop&is_copy_url=true))
+- **Snapchat:** [@MagicMessenger](https://www.snapchat.com/add/magicmessenger?sender_web_id=b823d2d0-f67f-41c4-8d14-a90228e0f960&device_type=desktop&is_copy_url=true)
 
 ---
 
