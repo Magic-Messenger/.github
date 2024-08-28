@@ -34,7 +34,7 @@ In a world full of noise, **Magic Messenger** stands out by offering you:
 ## 🚀 Getting Started
 
 1. **Download the App:** SOON Available on [iOS](#) and [Android](#). 📲
-2. **Buy you license:** Buy your license without using your phone number or email. everything private 🔐
+2. **Buy your license:** Buy your license without using your phone number or email. everything private 🔐
 3. **Start Chatting:** Connect with your contacts and begin your magical messaging journey! 👾🚀
 
 ---
