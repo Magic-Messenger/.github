@@ -1,12 +1,12 @@
-# Magic Messenger 📲🌐
+# Magic Privacy Messenger 📲🌐
 
-Welcome to **Magic Messenger** — the ultimate private messaging app designed to keep your conversations secure, fast, and magical! ✨
+Welcome to **Magic Privacy Messenger** — the ultimate private messaging app designed to keep your conversations secure, fast, and magical! ✨
 <br />
 🟣 End-to-end encrypted 🟣 Available on iOS & Android 🟣 VPN integration 🟣 No phone number or email required
 
 ---
 
-## ✉️ Why Magic Messenger?
+## ✉️ Why Magic Privacy Messenger?
 
 In a world full of noise, **Magic Messenger** stands out by offering you:
 
@@ -16,9 +16,9 @@ In a world full of noise, **Magic Messenger** stands out by offering you:
 
 ---
 
-<p align="center">
+<a href="https://magicmessenger.app/download/" target="_blank" align="center">
   <img src="https://github.com/Magic-Messenger/.github/blob/main/profile/logo.png" alt="Magic Messenger Logo" width="300px">
-</p>
+</a>
 
 ---
 
@@ -33,9 +33,16 @@ In a world full of noise, **Magic Messenger** stands out by offering you:
 
 ## 🚀 Getting Started
 
-1. **Download the App:** SOON Available on [iOS](#) and [Android](#). 📲
-2. **Buy your license:** Buy your license without using your phone number or email. everything private 🔐
-3. **Start Chatting:** Connect with your contacts and begin your magical messaging journey! 👾🚀
+1. **Download the App 📲:**
+   - APK Available on Website: [Visit](https://magicmessenger.app/download/)
+   - SOON Available on App Store ([iOS](#)) & Play Store ([Android](#)). 
+3. **Buy your license:** Buy your license without using your phone number or email. everything private 🔐
+   - License page on Website: [Visit](https://magicmessenger.app/license/)
+5. **Start Chatting:** Connect with your contacts and begin your magical messaging journey! 👾🚀
+
+<p>
+  <img src="https://github.com/Magic-Messenger/.github/blob/main/profile/profile/download_button_big.png" alt="Magic Messenger download button" width="175px">
+</p>
 
 ---
 
@@ -44,6 +51,13 @@ In a world full of noise, **Magic Messenger** stands out by offering you:
 Follow us on social media and become part of the **Magic Messenger** family:
 
 - **Snapchat:** [@MagicMessenger](https://www.snapchat.com/add/magicmessenger?sender_web_id=b823d2d0-f67f-41c4-8d14-a90228e0f960&device_type=desktop&is_copy_url=true)
+- **Instagram:** [@Magicprivacymessenger](https://www.instagram.com/magicprivacymessenger/)
+- **Tiktok:** [@magicprivacymessenger](https://www.tiktok.com/@magicprivacymessenger)
+- **X:** [@MagicPrivacy](https://x.com/Magicprivacy)
+- **Website:** [www.magicmessenger.app](https://magicmessenger.app/)
+
+
+We are currently in the pre-launch phase and expect to go live in the Apple and Google stores in October. For now, you can download the APK file from our official website. During this period, we may still make adjustments to the code. However, rest assured that Magic Messenger is or will soon be an open-source project. Stay tuned for more updates!
 
 ---
 
