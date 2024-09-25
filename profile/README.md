@@ -33,6 +33,8 @@ In a world full of noise, **Magic Messenger** stands out by offering you:
 
 ## 🚀 Getting Started
 
+We are currently in the pre-launch phase and expect to go live in the Apple and Google stores in **October**. For now, you can download the APK file from our official website. During this period, we may still make adjustments to the code. However, rest assured that **Magic Privacy Messenger** is or will soon be an open-source project.
+
 1. **Download the App 📲:**
    - APK Available on Website: [Visit](https://magicmessenger.app/download/)
    - SOON Available on App Store ([iOS](#)) & Play Store ([Android](#)). 
@@ -56,11 +58,8 @@ Follow us on social media and become part of the **Magic Messenger** family:
 - **X:** [@MagicPrivacy](https://x.com/Magicprivacy)
 - **Website:** [www.magicmessenger.app](https://magicmessenger.app/)
 
-
-We are currently in the pre-launch phase and expect to go live in the Apple and Google stores in October. For now, you can download the APK file from our official website. During this period, we may still make adjustments to the code. However, rest assured that Magic Messenger is or will soon be an open-source project. Stay tuned for more updates!
-
 ---
 
-Thank you for choosing **Magic Messenger** 📲🌐! 
+Thank you for choosing **Magic Privacy Messenger** 📲🌐! 
 <br />
 Let’s make messaging magical again. ✨
