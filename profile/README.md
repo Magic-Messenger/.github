@@ -17,7 +17,7 @@ In a world full of noise, **Magic Messenger** stands out by offering you:
 ---
 
 <a href="https://magicmessenger.app/download/" target="_blank" align="center">
-  <img src="https://github.com/Magic-Messenger/.github/blob/main/profile/logo.png" alt="Magic Messenger Logo" width="300px">
+  <img src="https://github.com/Magic-Messenger/.github/blob/main/profile/profile/download_button_big.png" alt="Magic Messenger Logo" width="300px">
 </a>
 
 ---
