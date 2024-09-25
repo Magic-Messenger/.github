@@ -16,9 +16,9 @@ In a world full of noise, **Magic Messenger** stands out by offering you:
 
 ---
 
-<a href="https://magicmessenger.app/download/" target="_blank" align="center">
-  <img src="https://github.com/Magic-Messenger/.github/blob/main/profile/profile/download_button_big.png" alt="Magic Messenger Logo" width="300px">
-</a>
+<p align="center">
+  <img src="https://github.com/Magic-Messenger/.github/blob/main/profile/logo.png" alt="Magic Messenger Logo" width="300px">
+</p>
 
 ---
 
@@ -40,9 +40,9 @@ In a world full of noise, **Magic Messenger** stands out by offering you:
    - License page on Website: [Visit](https://magicmessenger.app/license/)
 5. **Start Chatting:** Connect with your contacts and begin your magical messaging journey! 👾🚀
 
-<p>
-  <img src="https://github.com/Magic-Messenger/.github/blob/main/profile/profile/download_button_big.png" alt="Magic Messenger download button" width="175px">
-</p>
+<a href="https://magicmessenger.app/download/" target="_blank">
+  <img src="https://github.com/Magic-Messenger/.github/blob/main/profile/download_button_big.png" alt="Magic Messenger download button" width="235px">
+</a>
 
 ---
 
