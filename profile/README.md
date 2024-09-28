@@ -42,7 +42,7 @@ We are currently in the pre-launch phase and expect to go live in the Apple and 
    - License page on Website: [Visit](https://magicmessenger.app/license/)
 5. **Start Chatting:** Connect with your contacts and begin your magical messaging journey! 👾🚀
 
-<a href="https://magicmessenger.app/download/" target="_blank">
+<a href="https://github.com/Magic-Messenger/magic-download/raw/refs/heads/main/Magic%20Privacy%20Messenger.apk?download=" target="_blank">
   <img src="https://github.com/Magic-Messenger/.github/blob/main/profile/download_button_big.png" alt="Magic Messenger download button" width="235px">
 </a>
 
